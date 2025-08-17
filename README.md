@@ -1,6 +1,6 @@
 <!-- Futuristic Profile README for Harshit S. Jain (hx010207) -->
 <p align="center">
-  <img src="profile.png" alt="Profile Picture" width="150" style="border-radius:50%">
+  <img src="Profile.png" alt="Profile Picture" width="150" style="border-radius:50%">
 </p>
 <!-- Typing Effect Banner -->
 <p align="center">
