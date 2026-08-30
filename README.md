@@ -21,7 +21,7 @@
 <h3 align="center"><img src="https://img.icons8.com/color/48/000000/cyber-security.png" width="28"/> About Me </h3>
 
 <p align="center">
-  <b>🌌 Second-year B.Tech student in <span style="color:#00FF96">Cybersecurity Engineering</span> at <span style="color:#00E6FF">Jain University</span></b><br>
+  <b>🌌 Third-year B.Tech student in <span style="color:#00FF96">Cybersecurity Engineering</span> at <span style="color:#00E6FF">Jain University</span></b><br>
   🚀 <b>Cybersecurity Club Co-Lead</b> | <b>Hackathon Fanatic</b><br>
   🤖 <b>AI + Cybersecurity = Real-world Impact</b><br>
   💡 <b>Open Source Advocate | Community Learner</b>
